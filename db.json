@@ -4,52 +4,72 @@
       "id": 1,
       "userName":"Pikachu",
       "profile_picture":"https://images-na.ssl-images-amazon.com/images/I/61iWqqcq%2BKL._SX425_.jpg",
-      "recent_post":"https://pixel.nymag.com/imgs/daily/vulture/2019/05/06/06-detective-pikachu.w700.h700.jpg"
+      "recent_post":"https://pixel.nymag.com/imgs/daily/vulture/2019/05/06/06-detective-pikachu.w700.h700.jpg",
+      "liked":"Susana, and Ujang",
+      "caption":"Love Coffee"
     },{
       "id": 2,
       "userName":"Hachi",
       "profile_picture":"https://cdn.myanimelist.net/images/anime/12/6900.jpg",
-      "recent_post":"https://i1.sndcdn.com/artworks-000082634712-9b85gm-t500x500.jpg"
+      "recent_post":"https://i1.sndcdn.com/artworks-000082634712-9b85gm-t500x500.jpg",
+      "liked":"Pikachu, and Hello Kitty",
+      "caption":"No caption needed"
     },{
       "id": 3,
       "userName":"Hello Kitty",
       "profile_picture":"https://images-na.ssl-images-amazon.com/images/I/51e0IN0EqZL._SX425_.jpg",
-      "recent_post":"https://target.scene7.com/is/image/Target/GUEST_95728aa1-0dc0-4c0f-9d3e-f48fd090a46c?wid=488&hei=488&fmt=pjpeg"
+      "recent_post":"https://target.scene7.com/is/image/Target/GUEST_95728aa1-0dc0-4c0f-9d3e-f48fd090a46c?wid=488&hei=488&fmt=pjpeg",
+      "liked":"Me",
+      "caption":"Today is my birthday"
     },{
       "id": 4,
       "userName":"P-Man",
       "profile_picture":"https://i.ytimg.com/vi/K-W1DAlJbiA/hqdefault.jpg",
-      "recent_post":"https://i.ytimg.com/vi/zrnp2AVe2ys/hqdefault.jpg"
+      "recent_post":"https://i.ytimg.com/vi/zrnp2AVe2ys/hqdefault.jpg",
+      "liked":"Doraemon, and 68 others",
+      "caption":"Still Remember it"
     },{
       "id": 5,
       "userName":"Doraemon",
       "profile_picture":"https://giantbomb1.cbsistatic.com/uploads/scale_small/0/2579/1686742-tumblr_l6pwth0gox1qcp8iro1_400.png",
-      "recent_post":"https://i.pinimg.com/originals/2a/02/68/2a026809d5a02d6526f086c05e3d56fd.jpg"
+      "recent_post":"https://i.pinimg.com/originals/2a/02/68/2a026809d5a02d6526f086c05e3d56fd.jpg",
+      "liked":"Tsubasa, Cinderella, and P-Man",
+      "caption":"Me and My Best Friend"
     },{
       "id": 6,
       "userName":"Tsubasa",
       "profile_picture":"https://www.anime-planet.com/images/characters/tsubasa-ozora-2715.jpg",
-      "recent_post":"https://i.pinimg.com/736x/ca/f7/d0/caf7d092a54d029e1b8b4b19a01bcc5f.jpg"
+      "recent_post":"https://i.pinimg.com/736x/ca/f7/d0/caf7d092a54d029e1b8b4b19a01bcc5f.jpg",
+      "liked":"Arum, and 5 others",
+      "caption":"Bola adalah teman"
     },{
       "id": 7,
       "userName":"Cinderella",
       "profile_picture":"https://lumiere-a.akamaihd.net/v1/images/tmb-sq_character-cinderella_launch_59de7c18.jpeg",
-      "recent_post":"https://images-na.ssl-images-amazon.com/images/I/81qNmeW8MsL._SL1500_.jpg"
+      "recent_post":"https://images-na.ssl-images-amazon.com/images/I/81qNmeW8MsL._SL1500_.jpg",
+      "liked":"Saitama",
+      "caption":"My Movie"
     },{
       "id": 8,
       "userName":"Saitama",
       "profile_picture":"https://cdn.myanimelist.net/images/characters/11/294388.jpg",
-      "recent_post":"https://images-na.ssl-images-amazon.com/images/I/711YqJG3p2L._SX425_.jpg"
+      "recent_post":"https://images-na.ssl-images-amazon.com/images/I/711YqJG3p2L._SX425_.jpg",
+      "liked":"Woody and Piglet",
+      "caption":"Hmm Okay~"
     },{
       "id": 9,
       "userName":"Woody",
       "profile_picture":"https://d3ieicw58ybon5.cloudfront.net/ex/350.466/shop/product/ff3b82e80b7d4e90b42d3355946585a6.jpg",
-      "recent_post":"https://inst-1.cdn.shockers.de/hs_cdn/out/pictures/master/product/1/toy-story-woody-baby-kostuem-disney-pixar-scheriff-woody-verkleidung-kinder-woody-baby-costume-36347.jpg"
+      "recent_post":"https://inst-1.cdn.shockers.de/hs_cdn/out/pictures/master/product/1/toy-story-woody-baby-kostuem-disney-pixar-scheriff-woody-verkleidung-kinder-woody-baby-costume-36347.jpg",
+      "liked":"Doraemon, Nobita, and Shizuka",
+      "caption":"Yes, he is Andy wkwk"
     },{
       "id": 10,
       "userName":"Piglet",
       "profile_picture":"https://images-na.ssl-images-amazon.com/images/I/31YuvwUyrGL.jpg",
-      "recent_post":"https://lumiere-a.akamaihd.net/v1/images/9e259a68c3fceb6265860399bfc98fb56e098960.jpeg"
+      "recent_post":"https://lumiere-a.akamaihd.net/v1/images/9e259a68c3fceb6265860399bfc98fb56e098960.jpeg",
+      "liked":"Me and Shizuka",
+      "caption":"Applause"
     }
   ],
   "comments": [
