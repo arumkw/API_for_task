@@ -72,11 +72,19 @@
       "caption":"Applause"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "stories": [
+    { "id": 1, "userName": "Yunaandco", "time": "16 MINUTES AGO" },
+    { "id": 2, "userName": "Wimayoga", "time": "30 MINUTES AGO" },
+    { "id": 3, "userName": "RealityClub", "time": "8 HOURS AGO" }
   ],
-  "profile": {
+  "peopleInCircle": [
+    { "id": 1, "userName": "FamilyMart", "status": "FOLLOW" },
+    { "id": 2, "userName": "LeMinerale", "status": "UNFOLLOW" },
+    { "id": 3, "userName": "JapanClub", "status": "FOLLOW" },
+    { "id": 4, "userName": "Logitech", "status": "UNFOLLOW" },
+    { "id": 5, "userName": "Verint", "status": "FOLLOW" }
+  ],
+  "tambahan": {
     "name": "typicode"
   }
 }
