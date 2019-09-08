@@ -84,6 +84,26 @@
     { "id": 4, "userName": "Logitech", "status": "UNFOLLOW" },
     { "id": 5, "userName": "Verint", "status": "FOLLOW" }
   ],
+  "orriku": [
+    {
+      "img": "https://ytimg.googleusercontent.com/vi/X62ySUljjIA/0.jpg",
+      "title": "Image1",
+      "author": "orriku",
+      "cols": 1
+    },
+    {
+      "img": "https://ytimg.googleusercontent.com/vi/gzedhvncoRE/0.jpg",
+      "title": "Image2",
+      "author": "orriku",
+      "cols": 1
+    },
+    {
+      "img": "https://ytimg.googleusercontent.com/vi/C3XFIPNqRm8/0.jpg",
+      "title": "Image3",
+      "author": "orriku",
+      "cols": 1
+    }
+   ],
   "tambahan": {
     "name": "typicode"
   }
